@@ -5,8 +5,23 @@
 body {
   margin: 0;
   padding: 0;
+  background-image: url(./background.jpg)
 }
-
+h1 {
+  color: blueviolet
+}
+h2 {
+  color: crimson
+}
+h2 {
+  font-size: larger
+}
+p {
+  color: darkblue
+}
+ol {
+  color: deeppink
+}
 header {
   grid-area: header;
   color: white;
@@ -60,7 +75,7 @@ footer {
 }
 
 img {
-  width: 25%;
+  width: 15%;
 }
 
 .container {
